@@ -25,9 +25,11 @@ Challenge.java class consists of the back-end part of the code, it outputs the u
 
 As an added feature, it also has an option to do a **Custom** level challenge which asks for number of words, which will be printed as random pool of words from each of the array of strings of different levels.
 
-## Thanking you
-Company: Varcons Technologies Pvt. Ltd. \
-Trainer: Loknath S
+## Vote of Thanks
+#### We thank TIE, VCT and our mentor, for giving this wonderful opportunity to let us participate in the internship, which gave an exposure for us to new challenges.
+#### Organisation: Varcons Technologies Pvt. Ltd.
+#### Mentor: Loknath S
+
 
 ## Team Data Autocrats
 - Chetan Vinayaka (1MV21EC039) (Team Leader)
