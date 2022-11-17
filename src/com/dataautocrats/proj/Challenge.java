@@ -84,6 +84,9 @@ public static void chal(int n) throws InterruptedException {
 	int numChars = typedWords.length();
 	
 	int wpm = (int)((((double)numChars/5) / seconds) * 60);
+	/* words per minute formula:-
+	 * (x number of characters / 5) / 1 min = y words per minute
+	*/
 	System.out.println("Your words per minute is: " + wpm + "!");
 	scan.close();
 	System.exit(1);
